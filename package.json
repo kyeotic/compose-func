@@ -1,0 +1,19 @@
+{
+  "name": "compose-func",
+  "version": "1.0.0",
+  "description": "A dependency-free right-to-left compose function (Node v0.10.x compatible)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyrsius/compose-func.git"
+  },
+  "keywords": [
+    "compose"
+  ],
+  "author": "Tim Kye",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/tyrsius/compose-func/issues"
+  },
+  "homepage": "https://github.com/tyrsius/compose-func#readme"
+}
