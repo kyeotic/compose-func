@@ -1,6 +1,6 @@
 {
   "name": "compose-func",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dependency-free right-to-left compose function (Node v0.10.x compatible)",
   "main": "index.js",
   "repository": {
